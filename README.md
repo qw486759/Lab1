@@ -9,6 +9,10 @@ Array y = { array y values here separated by coma }
 
 Array z = x + y = { array z values here separated by coma }
 
+results output:
+![image](https://github.com/user-attachments/assets/41fcc424-586f-4642-92d6-98cb3c7b3566)
+
+
 # Lab 1 part 2 - ArrayList
 
 Initiate an ArrayList that contain 5 names
@@ -17,3 +21,7 @@ Organize a nice-looking output to the terminal that looks like the following:
 Names = { list of names here separated by coma }
 
 Names (switched) = { list of names with switched first and last letters here separated by coma }
+
+results output:
+![image](https://github.com/user-attachments/assets/0ba9e5df-74b3-4ae4-964c-19c1477567ad)
+
